@@ -1,6 +1,5 @@
 Hi there 👋 
 - 🔭 I’m Filip
-- 👀 I’m interested in Android, some MatLab and Python.
 - 🌱 I’m currently learning Jetpack Compose for Android development.
 
 <!---
